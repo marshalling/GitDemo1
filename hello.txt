@@ -8,4 +8,4 @@ hello git! hello lishuai!
 hello git! hello lishuai!
 hello git! hello lishuai! master test
 hello git! hello lishuai! hot-fix test
-hjj
+hjj GitDemo2
